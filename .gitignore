@@ -1,0 +1,9 @@
+# Go binary
+docker-go-server
+
+# Optional: ignore common compiled test binaries
+*.test
+
+# Optional: coverage output
+*.out
+coverage.out
